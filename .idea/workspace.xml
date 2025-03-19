@@ -26,6 +26,11 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -59,7 +64,7 @@
   "keyToString": {
     "Application.SeleniumTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "hieu",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -110,7 +115,7 @@
       <workItem from="1742390670405" duration="97000" />
       <workItem from="1742390785275" duration="155000" />
       <workItem from="1742390965814" duration="1959000" />
-      <workItem from="1742393557274" duration="7883000" />
+      <workItem from="1742393557274" duration="9059000" />
     </task>
     <servers />
   </component>
