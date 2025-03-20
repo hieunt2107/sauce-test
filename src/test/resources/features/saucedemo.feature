@@ -10,4 +10,4 @@ Feature: Saucedemo Checkout Process
     Then Product "Sauce Labs Backpack" should be displayed with correct details
     When User clicks Checkout and fills in the required information
     And User completes the checkout process
-    Then "Thank you for your order!" message should be displayed
+    Then "Checkout: Complete!" message should be displayed
